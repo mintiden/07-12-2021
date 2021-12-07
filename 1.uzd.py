@@ -1,0 +1,12 @@
+sar1=[3, 1, 2, 3, 4, 4, 5]
+elem1=3
+elem2=1
+elem3=2
+elem4=3
+elem5=4
+elem6=4
+elem7=5
+summa=elem1+elem2+elem3+elem4
+print("Summa =", summa)
+reizinajums=elem5*elem6*elem7
+print("Reizinajums =", reizinajums)
